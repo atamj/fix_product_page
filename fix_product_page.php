@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:        Fix product page
-Plugin URI:         https://github.com/atamj/scroll_down_after_search
+Plugin URI:         https://github.com/atamj/fix_product_page
 Description:        Plugin  qui permet d'atteindre les résultats de recherche directement après une recherche et reset les filtres à chaque recherche ainsi que d'ajouter un bouton reset à la page produit
 Version:            1.2.0
 Author:             Jaël Atam
